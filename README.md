@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Web Development and also UIX Design
+🔭 I’m currently working on Backend Web Development and Machine Learning Engineer
 
 
 ## 🌐 Socials:
